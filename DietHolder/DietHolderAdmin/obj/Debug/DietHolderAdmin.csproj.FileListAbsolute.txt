@@ -1,0 +1,14 @@
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderAdmin\bin\Debug\DietHolderAdmin.exe.config
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderAdmin\bin\Debug\DietHolderAdmin.exe
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderAdmin\bin\Debug\DietHolderAdmin.pdb
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderAdmin\obj\Debug\DietHolderAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderAdmin\obj\Debug\DietHolderAdmin.MainMenu.resources
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderAdmin\obj\Debug\DietHolderAdmin.Properties.Resources.resources
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderAdmin\obj\Debug\DietHolderAdmin.csproj.GenerateResource.Cache
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderAdmin\obj\Debug\DietHolderAdmin.exe
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderAdmin\obj\Debug\DietHolderAdmin.pdb
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderAdmin\bin\Debug\System.Web.DataVisualization.Design.dll
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderAdmin\bin\Debug\System.Web.DataVisualization.dll
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderAdmin\bin\Debug\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderAdmin\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderAdmin\obj\Debug\DietHolderAdmin.MacronutrientsStatistics.resources

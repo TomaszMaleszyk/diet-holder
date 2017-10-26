@@ -1,0 +1,6 @@
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderServiceLibrary\bin\Debug\DietHolderServiceLibrary.dll.config
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderServiceLibrary\bin\Debug\DietHolderServiceLibrary.dll
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderServiceLibrary\bin\Debug\DietHolderServiceLibrary.pdb
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderServiceLibrary\obj\Debug\DietHolderServiceLibrary.dll
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderServiceLibrary\obj\Debug\DietHolderServiceLibrary.pdb
+C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderServiceLibrary\obj\Debug\DietHolderServiceLibrary.csprojResolveAssemblyReference.cache

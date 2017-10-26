@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="44cb179c-88e5-4051-a77e-b46b31bb0fd4" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/DietHolderServiceLibrary/CaloriesCalculator/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="e19bd6de-fd23-4c08-87d1-851212b9b5a1" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/DietHolderServiceLibrary/CaloriesCalculator/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="ae31464e-8c94-46b5-80e1-29fb822f40ba" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/DietHolderServiceLibrary/CaloriesCalculator/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="d84b10fa-a9fd-4824-b6ae-72c40bf24dde" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/DietHolderServiceLibrary/CaloriesCalculator/mex" />
+    <MetadataFile FileName="DietHolderServiceLibrary.xsd" MetadataType="Schema" ID="e59b4092-6e7b-4bb6-9352-f1badf012851" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/DietHolderServiceLibrary/CaloriesCalculator/mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="594b8119-0f3a-45d7-84e7-cb627974daea" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/DietHolderServiceLibrary/CaloriesCalculator/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
