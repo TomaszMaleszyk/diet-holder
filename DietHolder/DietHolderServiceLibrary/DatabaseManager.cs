@@ -27,7 +27,7 @@ namespace DietHolderServiceLibrary
                 using(var sqlCommand = new SqlCommand(
                            "SELECT id AS ID, name AS Produkt, protein_value AS Białko, " +
                            "carbohydrates_value AS Węglowodany, fat_value AS Tłuszcze, " +
-                           "calorific AS Calories FROM Products ",
+                           "calorific AS Kaloryczność FROM Products ",
                            sqlConnection))
                 {
                     var dataReader = sqlCommand.ExecuteReader();

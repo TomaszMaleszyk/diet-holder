@@ -20,3 +20,9 @@ C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderClient\obj\Debug\AxInter
 C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderClient\obj\Debug\DietHolderClient.csproj.ResolveComReference.cache
 C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderClient\obj\Debug\DietHolderClient.UserComponents.UcVideoPlayer.resources
 C:\Users\Tomasz\Desktop\DietHolder\DietHolder\DietHolderClient\obj\Debug\DietHolderClient.csprojResolveAssemblyReference.cache
+C:\Users\Tomasz\Desktop\Repositories\diet-holder\DietHolder\DietHolderClient\bin\Debug\DietHolderClient.exe.config
+C:\Users\Tomasz\Desktop\Repositories\diet-holder\DietHolder\DietHolderClient\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Tomasz\Desktop\Repositories\diet-holder\DietHolder\DietHolderClient\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Tomasz\Desktop\Repositories\diet-holder\DietHolder\DietHolderClient\obj\Debug\DietHolderClient.csproj.ResolveComReference.cache
+C:\Users\Tomasz\Desktop\Repositories\diet-holder\DietHolder\DietHolderClient\obj\Debug\DietHolderClient.exe
+C:\Users\Tomasz\Desktop\Repositories\diet-holder\DietHolder\DietHolderClient\obj\Debug\DietHolderClient.pdb
