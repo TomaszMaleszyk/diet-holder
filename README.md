@@ -2,6 +2,7 @@
 From client side, Diet Holder is a desktop application which helps You to stay (or get) fit. 
 
 It’s collection of four tools needed to accomplish that goal:
+
 •	Calculator of daily calories to eat value – it’s compute how much calories you needed to eat to reach your goals. It’s specially matched for You, having regard to Yours posture, age, weight, height, sex, psychical activity. 
 
 •	Calculator of eaten calories value – it’s Your eating diary. You can calculate here how much You ate on this day. On this calculator You have access to products database, where are placed many of products positions.
