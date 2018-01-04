@@ -17,3 +17,5 @@ Next functionality is comparing products statistics (calorific, macronutrients d
 
 Project was created in C# language using WCF technology. 
 This project consist of client and administrator desktop applications which are using methods implemented in Service Library. 
+
+⇒ Visual Studio 2015, .NET 4.5, WCF, SQL Server Data Tools, SQL
